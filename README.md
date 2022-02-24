@@ -1,4 +1,4 @@
-# Games on PLay Store  <img src="https://play.google.com/store/apps/developer?id=XGame+Global" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Games on <div src="https://play.google.com/store/apps/developer?id=XGame+Global" height="40" alt="Google Play Store " title="Games on GitHub">
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
